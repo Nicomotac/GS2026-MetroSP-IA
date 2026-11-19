@@ -2,7 +2,7 @@
 
 **Integrantes:** Nicolas Mota (RM561857) · Caio Kenzo (RM592979)
 
-- 🎥 **Vídeo:** COLE_AQUI_O_LINK_DO_YOUTUBE
+- 🎥 **Vídeo:** https://youtu.be/0H3qbjYkEBE
 - ☕ **API Java (Azure):** https://app-global-mobile-global-rm561857.azurewebsites.net/swagger-ui.html
 - 📦 **Firebase App Distribution:** APK do perfil `preview`, com o professor como tester
 
